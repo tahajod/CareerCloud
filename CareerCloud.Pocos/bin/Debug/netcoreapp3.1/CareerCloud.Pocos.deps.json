@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CareerCloud.Pocos/1.0.0": {
+        "dependencies": {
+          "CareerCloud.DataAccessLayer": "1.0.0"
+        },
+        "runtime": {
+          "CareerCloud.Pocos.dll": {}
+        }
+      },
+      "CareerCloud.DataAccessLayer/1.0.0": {
+        "runtime": {
+          "CareerCloud.DataAccessLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CareerCloud.Pocos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CareerCloud.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

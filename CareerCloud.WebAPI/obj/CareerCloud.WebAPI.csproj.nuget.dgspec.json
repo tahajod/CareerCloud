@@ -1,0 +1,490 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.WebAPI\\CareerCloud.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
+        "projectName": "CareerCloud.ADODataAccessLayer",
+        "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Tahaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.ADODataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tahaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+                "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+              },
+              "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.BusinessLogicLayer\\CareerCloud.BusinessLogicLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.BusinessLogicLayer\\CareerCloud.BusinessLogicLayer.csproj",
+        "projectName": "CareerCloud.BusinessLogicLayer",
+        "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.BusinessLogicLayer\\CareerCloud.BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\Tahaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.BusinessLogicLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tahaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj": {
+                "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.ADODataAccessLayer\\CareerCloud.ADODataAccessLayer.csproj"
+              },
+              "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+                "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+              },
+              "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\CareerCloud.EntityFrameworkDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\CareerCloud.EntityFrameworkDataAccess.csproj",
+        "projectName": "CareerCloud.EntityFrameworkDataAccess",
+        "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\CareerCloud.EntityFrameworkDataAccess.csproj",
+        "packagesPath": "C:\\Users\\Tahaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tahaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+                "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+              },
+              "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+        "projectName": "CareerCloud.Pocos",
+        "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj",
+        "packagesPath": "C:\\Users\\Tahaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.Pocos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tahaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.WebAPI\\CareerCloud.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.WebAPI\\CareerCloud.WebAPI.csproj",
+        "projectName": "CareerCloud.WebAPI",
+        "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.WebAPI\\CareerCloud.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\Tahaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tahaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.BusinessLogicLayer\\CareerCloud.BusinessLogicLayer.csproj": {
+                "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.BusinessLogicLayer\\CareerCloud.BusinessLogicLayer.csproj"
+              },
+              "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\CareerCloud.EntityFrameworkDataAccess.csproj": {
+                "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.EntityFrameworkDataAccess\\CareerCloud.EntityFrameworkDataAccess.csproj"
+              },
+              "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj": {
+                "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\CareerCloud.Pocos\\CareerCloud.Pocos.csproj"
+              },
+              "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
+        "projectName": "CareerCloud.DataAccessLayer",
+        "projectPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Tahaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Tahaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

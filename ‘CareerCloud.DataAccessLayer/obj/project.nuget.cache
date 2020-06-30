@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8VTwXen14+kiTRAsxPLvkEZLJcl1W/qDpyNbak5PztIxHH7bx5kd0ziTnNH5ICu4qUCF9gQkHW3LUrkCJmtHDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Courses\\Humber\\C#\\Project\\Repos\\CareerCloud\\‘CareerCloud.DataAccessLayer\\CareerCloud.DataAccessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tahaj\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Tahaj\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tahaj\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

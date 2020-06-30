@@ -1,0 +1,15 @@
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.deps.json
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.dll
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.pdb
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.ADODataAccessLayer.dll
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.dll
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.ADODataAccessLayer.pdb
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.pdb
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.AssemblyInfo.cs
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.csproj.CopyComplete
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.dll
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.BusinessLogicLayer\obj\Debug\netcoreapp3.1\CareerCloud.BusinessLogicLayer.pdb

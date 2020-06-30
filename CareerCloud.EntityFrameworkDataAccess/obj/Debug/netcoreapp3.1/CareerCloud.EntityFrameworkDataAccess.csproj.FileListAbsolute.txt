@@ -1,0 +1,15 @@
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.deps.json
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.runtimeconfig.json
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.runtimeconfig.dev.json
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.pdb
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.dll
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.dll
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.Pocos.pdb
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\bin\Debug\netcoreapp3.1\CareerCloud.DataAccessLayer.pdb
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.csprojAssemblyReference.cache
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.AssemblyInfoInputs.cache
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.AssemblyInfo.cs
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.csproj.CopyComplete
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.dll
+C:\Courses\Humber\C#\Project\Repos\CareerCloud\CareerCloud.EntityFrameworkDataAccess\obj\Debug\netcoreapp3.1\CareerCloud.EntityFrameworkDataAccess.pdb
